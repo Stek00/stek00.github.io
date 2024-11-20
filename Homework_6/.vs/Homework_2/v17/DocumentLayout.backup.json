@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|c:\\users\\michele\\desktop\\statistics\\homework_1\\homework_1\\univdist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|solutionrelative:homework_1\\univdist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|c:\\users\\michele\\desktop\\statistics\\homework_1\\homework_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|solutionrelative:homework_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|c:\\users\\michele\\desktop\\statistics\\homework_1\\homework_1\\histogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|solutionrelative:homework_1\\histogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|c:\\users\\michele\\desktop\\statistics\\homework_1\\homework_1\\bernoulli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|solutionrelative:homework_1\\bernoulli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\homework_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|solutionrelative:homework_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|c:\\users\\michele\\desktop\\statistics\\homework_1\\homework_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5853AD5-0CED-4F8F-A514-427523024183}|Homework_1\\Homework_2.csproj|solutionrelative:homework_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Form1.cs",
+              "RelativeToolTip": "Homework_1\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwKoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:48:36.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnivDist.cs",
+              "DocumentMoniker": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\UnivDist.cs",
+              "RelativeDocumentMoniker": "Homework_1\\UnivDist.cs",
+              "ToolTip": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\UnivDist.cs",
+              "RelativeToolTip": "Homework_1\\UnivDist.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:07:30.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bernoulli.cs",
+              "DocumentMoniker": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Bernoulli.cs",
+              "RelativeDocumentMoniker": "Homework_1\\Bernoulli.cs",
+              "ToolTip": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Bernoulli.cs",
+              "RelativeToolTip": "Homework_1\\Bernoulli.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:12:39.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Histogram.cs",
+              "DocumentMoniker": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Histogram.cs",
+              "RelativeDocumentMoniker": "Homework_1\\Histogram.cs",
+              "ToolTip": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Histogram.cs",
+              "RelativeToolTip": "Homework_1\\Histogram.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:47:23.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Homework_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Homework_1\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:23:54.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Homework_1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Michele\\Desktop\\Statistics\\Homework_1\\Homework_1\\Form1.Designer.cs",
+              "RelativeToolTip": "Homework_1\\Form1.Designer.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAcwB8BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:10:22.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
